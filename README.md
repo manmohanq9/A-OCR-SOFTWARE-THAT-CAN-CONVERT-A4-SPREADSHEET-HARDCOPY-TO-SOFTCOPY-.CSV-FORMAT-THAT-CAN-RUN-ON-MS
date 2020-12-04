@@ -1,2 +1,2 @@
 # RomanNumber_Converter
-App Which Can Convert Digits to Roman Digits
+GUI software that Can Convert Numeric Digits to Roman Digits
